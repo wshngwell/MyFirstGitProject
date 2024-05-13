@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstGitProject</string>
+    <string name="firstTask">Привет первое задание!</string>
 </resources>
